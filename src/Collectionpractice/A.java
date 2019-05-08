@@ -9,7 +9,7 @@ public class A {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("h");
+System.out.println("hhhh");
 		Map  m=new HashMap();
 		m.put(5, "aa");
 		m.put(3, "vv");
